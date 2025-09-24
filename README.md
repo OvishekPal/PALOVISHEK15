@@ -1,10 +1,10 @@
 [![MasterHead](https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif)](https://linkedin.com/in/info-ovishekpal)
 
-
 <h1 align="center">Hi 👋, I'm Ovishek Pal</h1>
-<h3 align="center">☠💻🔑🛡Cybersecurity Engineer | 💼 1 YoE | 📍 Dhaka, Bangladesh</h3>
+<h3 align="center">☠💻🔑🛡 Cybersecurity Engineer | 💼 1 YoE | 📍 Dhaka, Bangladesh</h3>
 
 <img align="right" alt="Cybersecurity Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=palovishek15&label=Profile%20views&color=0e75b6&style=flat" alt="palovishek15" /> 
 </p>
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-0078D7?logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/BurpSuite-FF6633?logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/BurpSuite-FF6633?logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-4cc9f0?logo=raspberry-pi&logoColor=white" />
 </p>
 
@@ -49,8 +49,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palovishek15&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palovishek15&show_icons=true&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=palovishek15&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palovishek15&show_icons=true&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
@@ -80,6 +80,3 @@
 ---
 
 <p align="center">⚡ "Breaking systems to build them stronger." ⚡</p>
-
----
-⭐️ From [Ovishek Pal](https://github.com/palovishek15)
